@@ -6,7 +6,8 @@ A user enumeration vulnerability was discovered in the MS Exchange Server 2019/2
 ## Demonstation
 
 
-https://github.com/user-attachments/assets/74bf4861-8ecb-4801-b635-e6cd8cab3218
+https://github.com/user-attachments/assets/61253d2f-f8e0-4116-a95d-34ef06f17e0a
+
 
 
 ## Use code
