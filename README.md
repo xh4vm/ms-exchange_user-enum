@@ -1,4 +1,4 @@
-# BDU:2024-08516 PoC
+# Microsoft Exchange Server - User Enumeration
 
 ## Introduction
 A user enumeration vulnerability was discovered in the MS Exchange Server 2019/2016 application. This method was tested on MS Exchange Server 2019 CU 14 (build: 15.02.1544.011) and MS Exchange Server 2016 CU 23 (build: 15.01.2507.039).
