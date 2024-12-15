@@ -20,4 +20,4 @@ poetry run python3 main.py -t <host or file> -u <user or file>
 
 ## Reference
 - [BDU:2024-08516](https://bdu.fstec.ru/vul/2024-08516)
-- [Сĸрытые угрозы в MS Exchange: почему перебор пользователей — это больше, чем просто ошибĸа](https://habr.com/ru/companies/cyberok/articles/864880/)
+- [habr.com](https://habr.com/ru/companies/cyberok/articles/864880/)
